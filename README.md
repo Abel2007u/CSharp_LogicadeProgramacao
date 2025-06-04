@@ -38,7 +38,7 @@ O repositório está organizado em **pastas temáticas**, com base na origem dos
 
 - `FACCAT/` — Exercícios da apostila **FACCAT - Lógica de Programação (mar/2007)**;  
 - `Manzano/` — Exercícios do **Livro de Algoritmos – Manzano (2000)**, dividos pelas páginas das listas; 
-- `Aulas/` — Exercícios resolvidos **durante as aulas**, cobrindo tópicos variados  
+- `Aula_Prof°Jaja/` — Exercícios resolvidos **durante as aulas**, cobrindo tópicos variados  
 - `Extras/` — Desafios ou exercícios adicionais, fora das fontes principais (também as apostilas).
 
 > Todos os exercícios foram adaptados de pseudocódigo para **C#**, mantendo a lógica original com boas práticas da linguagem.
