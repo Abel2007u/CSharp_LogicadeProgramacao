@@ -1,20 +1,32 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using LogicaComCSharp;
+using ExercLPAulasJaja;
 
-Console.WriteLine("Hello, World! Bora codar \n");
+//Console.WriteLine("Hello, World!");
 
-//LacoFor.Main(args);
-//CronometroFor.Main(args);
+//Soma.Main(args); //1ª Operacao
+//Subtracao.Main(args); //2ª Operacao
+//Multiplicacao.Main(args); //3ª Operacao
+//Divisao.Main(args); //4ª Operacao
+//AnteriorNum.Main(args);
+//PosteriorNum.Main(args);
+//Matematica.Main(args); //Traz a classe Math
+//ExemploIFElse.Main(args); //20 > 10 
+//SeSenao.Main(args);
 
-/*Manzano*/
-//L05AQuadrado15a200For.Main(args);
-//L05B_TabuadaNum1a10.Main(args);
-//L05C_TotalSoma100PrimNum.Main(args);
-//L05D_SomaValPares1a500.Main(args);
-//L05E_NumImparesEntre1e20.Main(args);
-//L05F_DividePor4Entre1e200.Main(args);
-L05G_Base3aoExpoente15.Main(args);
+/*AULA 02'06 SEG*/
+//ExemploIFElseVoto2.Main(args);
+//ExemploWhile.Main(args);
+//ExemploDoWhile.Main(args);
 
-/*ANOTAÇÕES AULA TER Pres. 03'06*/
-//Estrutura é a versão do C#, tendo dois tipos LTS que é segura/com muitos testes já realizados e a beta/em teste.
-//Next class: manipulação de Strings, de Booleanos e ForIt.
+/*AULA 04'06 QUA Float e Double| */
+//FloatDoubleExemplo.Main(args);
+//Booleanos.Main(args); *** 
+//CharString.Main(args);
+//ConversaoExplicita.Main(args);
+//ConversaoTipo.Main(args);
+//ExemploClassMatematica.Main(args);
+//SubstringEIndexOf.Main(args);
+EspeciaisCaracteresString.Main(args);
+
+//Também tem o -- decremento ou ++incremento
+//E o modulo % que traz o resto da divisão;
