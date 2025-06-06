@@ -26,7 +26,8 @@ O propósito principal deste projeto é **reforçar o aprendizado de lógica de 
 
 - Operações matemáticas e aritméticas;  
 - Estruturas condicionais (`if`, `else`, `switch`);  
-- Estruturas de repetição (`for`, `while`, `do...while`);  
+- Estruturas de repetição (`for`, `while`, `do...while`);
+- Vetores e matrizes;
 - Subalgoritmos (funções e procedimentos);  
 - Tratamento de entrada e saída de dados.  
 
